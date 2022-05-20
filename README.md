@@ -3,7 +3,7 @@
 <p><em>Computer Science Student at <a href="[http://www.unb.br](https://tecnico.ulisboa.pt/en/)">Instituto Superior Técnico</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Instagram: mafalda_mmf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mafalda_mmf)
+[![Instagram: mafalda_mmf](https://img.shields.io/badge/mafalda_mmf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mafalda_mmf)
 [![Linkedin: Mafalda Fernandes](https://img.shields.io/badge/-mafalda-fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mafalda-fernandes-a87823234/)](https://www.linkedin.com/in/mafalda-fernandes-a87823234/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafarrica)
 
