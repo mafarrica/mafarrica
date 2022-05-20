@@ -10,15 +10,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const thai = {
-  code: [Javascript, HTML, CSS, Python, C, Prolog, Assembly],
-  hobbies: {
-                        yoga,
-                        drummer,
-                        hiking/trekking,
-                      },
- goal: "Learn as much as I can about Computer Science and the overwhelmingly complex world around it"
+```C
+void defineMafalda(){
+  char code[LANGNUM] = [Javascript, HTML, CSS, Python, C, Prolog, Assembly];
+  if(happy == YES && tecnico != "2 hours of sleep"){
+        yoga = 30 /*minutes every day*/;
+        strcpy(drums, "until my arms fall off");
+        hiking = TRUE;
+                      
+ printf("goal: Learn as much as I can about Computer Science and the overwhelmingly complex world around it");
 }
 ```
 
