@@ -22,6 +22,6 @@ void defineMafalda(){
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning from different people</b> so if you want to say <b>hi and teach me a few things, you're more than welcome to!</b> :)</em>
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="60"> <em><b>I love learning from different people</b> so if you want to say <b>hi and teach me a few things, you're more than welcome to!</b> :)</em>
 
 ---
