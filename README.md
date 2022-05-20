@@ -4,7 +4,7 @@
 </em></p>
 
 [![Instagram: mafalda_mmf](https://img.shields.io/badge/mafalda_mmf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mafalda_mmf)
-[![Linkedin: Mafalda Fernandes](https://img.shields.io/badge/mafalda-fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mafalda-fernandes-a87823234/)
+[![Linkedin: Mafalda Fernandes](https://img.shields.io/badge/mafalda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafalda-fernandes-a87823234/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafarrica)
 
 
