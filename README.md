@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mafarrica)
 
 
-### <img src="https://media.giphy.com/media/SBSgGjMu6et7G/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/9xnukT596h0wPX8k3B/giphy.gif" width="50"> A little more about me...  
 
 ```C
 void defineMafalda(){
