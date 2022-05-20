@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mafalda! <img src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif" width="30"></h2>
+<h2> Hi, I'm Mafalda! <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Science Student at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
