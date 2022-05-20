@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mafalda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Science Student at <a href="[http://www.unb.br](https://tecnico.ulisboa.pt/en/)">Instituto Superior Técnico</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Science Student at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Instagram: mafalda_mmf](https://img.shields.io/badge/mafalda_mmf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mafalda_mmf)
