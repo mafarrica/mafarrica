@@ -16,9 +16,9 @@ void defineMafalda(){
   if(happy == YES && tecnico != "2 hours of sleep"){
         yoga = 30 /*minutes every day*/;
         strcpy(drums, "until my arms fall off");
-        hiking = TRUE;
+        hiking = TRUE;}
                       
- printf("goal: Learn as much as I can about Computer Science and the overwhelmingly complex world around it");
+  printf("goal: Learn as much as I can about Computer Science and the overwhelmingly complex world around it");
 }
 ```
 
