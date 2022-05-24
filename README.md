@@ -13,10 +13,13 @@
 ```C
 void defineMafalda(){
   char code[LANGNUM] = [Javascript, HTML, CSS, Python, C, Prolog, Assembly];
+  hobbie1 = drummer for 6 years
+  hobbie2 = love to go hiking on mountains
+  hobbie3 = exercise (mainly yoga and weight lifting)
+  hobbie4 = like to do some carpentry on holidays 
   if(happy == YES && tecnico != "2 hours of sleep"){
-        yoga = 30 /*minutes every day*/;
-        strcpy(drums, "until my arms fall off");
-        hiking = TRUE;}
+        return hobbie1 && hobbie2 && hobbie3 && hobbie4
+  }
                       
   printf("goal: Learn as much as I can about Computer Science and the overwhelmingly complex world around it");
 }
