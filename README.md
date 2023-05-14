@@ -16,14 +16,15 @@ void defineMafalda(){
   
   hobbie1 = drummer for 6 years;
   hobbie2 = love to go hiking on mountains;
-  hobbie3 = exercise (mainly yoga and weight lifting);
-  hobbie4 = like to do some carpentry on holidays;
+  hobbie3 = running;
+  hobbie4 = ceramics & carpentry;
   
   if(happy == YES && tecnico != "2 hours of sleep"){
         return hobbie1 && hobbie2 && hobbie3 && hobbie4;
   }
                       
-  printf("goal: Learn as much as I can about Computer Science and the overwhelmingly complex world around it");
+  printf("goal: Learn as much as I can about Computer Science and the 
+  overwhelmingly complex world around it");
 }
 ```
 
